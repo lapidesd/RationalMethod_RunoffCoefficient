@@ -1,6 +1,8 @@
 # RationalMethod_RunoffCoefficient
 Supplementary data and code: Constraints on the validity of the Rational Method for identifying peak discharge on pervious hillslopes under idealized runoff generation conditions
 
+[![DOI](https://zenodo.org/badge/255982403.svg)](https://zenodo.org/badge/latestdoi/255982403)
+
 Contents:
 * Make_Data_Runoff_Coefficient.ipynb -- program to generate data like that used in Lapides et al., 20XX. For a given saturated hydraulic conductivity (ks), sorptivity (A0), and set of climate conditions (K and b from the IFD relation I = K/D^b), a range of simulations are run to collect the necessary data to perform the Rational Method as an optimization. This is done by calculating an Intensity curve, a contributing area curve, and a runoff coefficient curve, while tracking the peak flow. Output used for publication are included in the folder titled "data." More information on the data produced by this script is included below.
 * Runoff_Coefficient_Visualize_Data.ipynb -- program to visualize data output by the script Make_Data_Runoff_Coefficient.ipynb. This program plots: runoff coefficient curves under different conditions; peak flow curves under different loss scenarios; Rational Method optimizations; colorplots of runoff coefficients, peak flows, and ratio between time of concentration and critical duration. 
