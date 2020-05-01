@@ -1,4 +1,4 @@
-# RationalMethod_RunoffCoefficient
+# Constraints on the validity of the Rational Method for identifying peak discharge on pervious hillslopes under idealized runoff generation conditions: supplementary code and data
 
 Dana Lapides [1], Anneliese Sytsma [2], and Sally Thompson [3,4]
 
