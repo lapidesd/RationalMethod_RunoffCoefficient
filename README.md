@@ -1,4 +1,15 @@
 # RationalMethod_RunoffCoefficient
+
+Dana Lapides [1], Anneliese Sytsma [2], and Sally Thompson [3,4]
+
+[1] Department of Earth and Planetary Science, University of California, Berkeley
+
+[2] Department of Environmental Design, University of California, Berkeley
+
+[3] Department of Civil and Environmental Engineering, University of California, Berkeley
+
+[4] Department of Environmental Engineering, University of Western Australia
+
 Supplementary data and code: Constraints on the validity of the Rational Method for identifying peak discharge on pervious hillslopes under idealized runoff generation conditions
 
 [![DOI](https://zenodo.org/badge/255982403.svg)](https://zenodo.org/badge/latestdoi/255982403)
